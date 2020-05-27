@@ -1,0 +1,151 @@
+﻿@model Casino.Models.Game
+
+
+
+@{
+    Layout = null;
+    var ext = ".png";
+}
+@{ 
+    var startClass = "visible";
+    if (Model.isGameON == true)
+    {
+        startClass = "hidden";
+    } else if (Model.currentCash <= 0)
+    {
+        startClass = "visible";
+    }
+
+}
+
+@{ 
+    var flipBack = "hidden";
+    if (Model.BidStatus == "")
+    {
+        flipBack = "Visible";
+    }
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/gameStyle.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Game</title>
+
+    <style>
+
+        body {
+            background: rgb(50,14,18);
+            background: radial-gradient(circle, rgba(50,14,18,1) 0%, rgba(50,14,18,1) 41%, rgba(14,14,14,1) 100%);
+        }
+
+
+    </style>
+
+</head>
+<body>
+    <div style="width: 870px; height: 542px; z-index: -1; position: absolute;
+        margin-right:auto;margin-left:auto;left: 20%; top: 20px; ">
+
+        <img class="auto-style1" src="../../Content/backGround/topRed.png" />
+
+        <a href="/Home/Reset">
+            <img class="auto-style1 zoom" src="../../Content/backGround/exit2.png" style="z-index: 2; left: 794px; top: 44px; position: absolute; height: 78px; width: 80px" />
+        </a>
+
+
+
+        <div style="z-index: 1; left: 335px; top: 150px; position: absolute">
+
+
+            <img src="~/Content/cards/blue_back.png" width="70" style="z-index: 2; position: absolute; visibility:@flipBack;" />
+            @if (Model.computerCards != null || Model.userCards != null)
+            {
+                foreach (var card in Model.computerCards)
+                {
+                    @*if (card == Model.computerCards[0])
+                    {
+                        <img src="~/Content/cards/blue_back.png" width="70" />
+                    }
+                    else
+                    {*@
+                    <img src="~/Content/cards/@card.Number@card.Suit@ext" width="70" />
+                    //}
+
+                }
+                <br /> <br /> <br /> <br /> <br />
+                foreach (var card in Model.userCards)
+                {
+                    <img src="~/Content/cards/@card.Number@card.Suit@ext" width="70" />
+                }
+            }
+        </div>
+
+        <a href="/Home/StartGame" class="startButton zoomCoins" style="z-index: 1; left: 325px; top:
+            225px; position: absolute; text-align: center ;visibility:@startClass; "> <span>Start</span></a>
+
+        <a href="/Home/StartGame" class="startButton zoomCoins" style="z-index: 1; left: 325px; top:
+            325px; position: absolute; text-align: center ;visibility:@startClass; "> Sorry, No Money No Honey</a>
+
+        <a href="/Home/StartBid?amount=100"><img src="~/Content/coins/100coin.png" width="50" class="zoomCoins" style="z-index: 1;  left: 21px;top: 435px; position: absolute" /></a>
+
+        <a href="/Home/StartBid?amount=50"><img src="~/Content/coins/50coin.png" width="50" class="zoomCoins" style="z-index: 1; left: 78px; top: 458px; position: absolute; right: 1447px;" /></a>
+
+        <a href="/Home/StartBid?amount=25"><img src="~/Content/coins/25coin.png" width="50" class="zoomCoins" style="z-index: 1; left: 137px; top: 479px; position: absolute" /></a>
+
+        <a href="/Home/StartBid?amount=10"><img src="~/Content/coins/10coin.png" width="50" class="zoomCoins" style="z-index: 1; left: 195px; top: 492px; position: absolute" /></a>
+
+
+
+
+        @Html.RouteLink("Deal", new
+           {
+               controller = "Home",
+               action = "Deal",
+           }, new
+           {
+               @class = "footerButton",
+               @style = "z-index: 1; left: 511px; top: 464px; position: absolute; width: 22px ; height:15px"
+           })
+
+        @Html.RouteLink("Hit", new
+           {
+               controller = "Home",
+               action = "UserHit",
+           }, new
+           {
+               @class = "footerButton",
+               @style = "z-index: 1; left: 599px; top: 464px; position: absolute; width: 22px; right: 760px; height:15px"
+           });
+
+        @Html.RouteLink("Stand", new
+           {
+               controller = "Home",
+               action = "Stand",
+           }, new
+           {
+               @class = "footerButton",
+               @style = "z-index: 1; left: 687px; top: 464px; position: absolute; width: 22px ; height:15px"
+           });
+
+
+        @*<label style="z-index: 1; left: 335px; top: 432px; position: absolute">@Model.bidValue</label>*@
+        @if (Model.isBidON)
+        {
+            <img class="auto-style1 zoom" src="~/Content/coins/@Model.coinFace.ToString()@ext"
+                 style="z-index: 1; left: 160px; top: 332px; position: absolute" />
+        }
+
+        <br />
+        <label style="z-index: 1; left: 571px; top: 525px; position: absolute; width: 119px; text-align: center; background-color:antiquewhite">Cash: @Model.currentCash.ToString("c2")</label>
+        <label style="z-index: 1; left: 690px; top: 525px; position: absolute; width: 119px; text-align: center; background-color:antiquewhite">@Model.BidStatus</label>
+
+
+
+    </div>
+</body>
+</html>

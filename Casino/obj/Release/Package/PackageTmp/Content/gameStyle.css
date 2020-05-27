@@ -1,0 +1,99 @@
+﻿
+    .auto-style1 {
+        width: 870px;
+        height: 542px;
+        z-index: -1;
+        left: 12px;
+        top: 20px;
+        position: absolute;
+    }
+
+    .startButton {
+        display: inline-block;
+        border-radius: 4px;
+        background-color: #3b5998;
+        border: none;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 28px;
+        padding: 20px;
+        width: 200px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+    }
+
+    .startButton span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+    }
+
+    .startButton span:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+
+    .startButton:hover span {
+        padding-right: 25px;
+    }
+
+    .startButton:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
+
+    .footerButton {
+        background-color: #3b5998;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin: 4px 2px;
+        opacity: 0.6;
+        transition: 0.3s;
+        display: inline-block;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .footerButton:hover {
+        opacity: 1
+    }
+
+    .coin100 {
+        background-image: url("~/Content/coins/100coin.png");
+        width: 50px;
+        z-index: 1;
+    }
+
+
+    .zoom {
+        transition: transform .5s; /* Animation */
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+    }
+
+    .zoom:hover {
+        transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    }
+
+    .zoomCoins {
+        transition: transform .2s; /* Animation */
+        margin: 0 auto;
+    }
+
+    .zoomCoins:hover {
+        transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    }
+
+
+

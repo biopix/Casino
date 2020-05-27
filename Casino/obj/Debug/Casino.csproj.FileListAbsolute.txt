@@ -1,0 +1,391 @@
+C:\Users\mac\source\repos\Casino\Casino\bin\Casino.dll.config
+C:\Users\mac\source\repos\Casino\Casino\bin\Casino.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\Casino.pdb
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\csc.exe
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\csc.exe.config
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\csc.rsp
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\csi.exe
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\csi.exe.config
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\csi.rsp
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.AppContext.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Console.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.IO.Compression.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Net.Http.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.ValueTuple.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\vbc.exe
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\vbc.exe.config
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\vbc.rsp
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\VBCSCompiler.exe
+C:\Users\mac\source\repos\Casino\Casino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mac\source\repos\Casino\Casino\bin\Antlr3.Runtime.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\Newtonsoft.Json.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Helpers.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Mvc.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Optimization.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Razor.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.WebPages.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.WebPages.Razor.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\WebGrease.dll
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Helpers.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Mvc.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Optimization.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.Razor.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.WebPages.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\System.Web.WebPages.Razor.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\Newtonsoft.Json.xml
+C:\Users\mac\source\repos\Casino\Casino\bin\Antlr3.Runtime.pdb
+C:\Users\mac\source\repos\Casino\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mac\source\repos\Casino\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\Casino\Casino\obj\Debug\Casino.csproj.CopyComplete
+C:\Users\mac\source\repos\Casino\Casino\obj\Debug\Casino.dll
+C:\Users\mac\source\repos\Casino\Casino\obj\Debug\Casino.pdb
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Casino.dll.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Casino.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Casino.pdb
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\csc.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\csc.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\csc.rsp
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\csi.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\csi.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\csi.rsp
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.AppContext.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Collections.Immutable.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Console.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Globalization.Calendars.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.IO.Compression.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.IO.FileSystem.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Net.Http.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Net.Sockets.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Reflection.Metadata.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.ValueTuple.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Xml.XPath.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\vbc.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\vbc.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\vbc.rsp
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\VBCSCompiler.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\roslyn\VBCSCompiler.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Antlr3.Runtime.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Microsoft.Web.Infrastructure.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Newtonsoft.Json.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Helpers.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Mvc.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Optimization.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Razor.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.WebPages.Deployment.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.WebPages.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.WebPages.Razor.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\WebGrease.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Helpers.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Mvc.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Optimization.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.Razor.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.WebPages.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.WebPages.Deployment.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\System.Web.WebPages.Razor.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Newtonsoft.Json.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Antlr3.Runtime.pdb
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\obj\Debug\Casino.csproj.CopyComplete
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\obj\Debug\Casino.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino\Casino\obj\Debug\Casino.pdb
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Casino.dll.config
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Casino.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Casino.pdb
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\csc.exe
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\csc.exe.config
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\csc.rsp
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\csi.exe
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\csi.exe.config
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\csi.rsp
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.AppContext.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Console.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.IO.Compression.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Net.Http.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.ValueTuple.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\vbc.exe
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\vbc.exe.config
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\vbc.rsp
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\VBCSCompiler.exe
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Antlr3.Runtime.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Newtonsoft.Json.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Helpers.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Mvc.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Optimization.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Razor.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.WebPages.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.WebPages.Razor.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\WebGrease.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Helpers.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Mvc.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Optimization.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.Razor.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.WebPages.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\System.Web.WebPages.Razor.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Newtonsoft.Json.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Antlr3.Runtime.pdb
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\obj\Debug\Casino.csproj.CopyComplete
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\obj\Debug\Casino.dll
+C:\Users\mac\Documents\ASP .Net\Casino\Casino\Casino\obj\Debug\Casino.pdb
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Casino.dll.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Casino.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Casino.pdb
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\csc.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\csc.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\csc.rsp
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\csi.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\csi.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\csi.rsp
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.AppContext.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Collections.Immutable.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Console.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Globalization.Calendars.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.IO.Compression.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.IO.FileSystem.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Net.Http.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Net.Sockets.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Reflection.Metadata.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.ValueTuple.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Xml.XPath.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\vbc.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\vbc.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\vbc.rsp
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\VBCSCompiler.exe
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\roslyn\VBCSCompiler.exe.config
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Antlr3.Runtime.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Microsoft.Web.Infrastructure.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Newtonsoft.Json.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Helpers.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Mvc.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Optimization.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Razor.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.WebPages.Deployment.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.WebPages.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.WebPages.Razor.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\WebGrease.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Helpers.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Mvc.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Optimization.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.Razor.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.WebPages.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.WebPages.Deployment.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\System.Web.WebPages.Razor.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Newtonsoft.Json.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Antlr3.Runtime.pdb
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\obj\Debug\Casino.csproj.CopyComplete
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\obj\Debug\Casino.dll
+D:\IPD Course\15-ASP .NET\Black Jack Game\Casino v2\Casino\obj\Debug\Casino.pdb
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Casino.dll.config
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Casino.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Casino.pdb
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\csc.exe
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\csc.exe.config
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\csc.rsp
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\csi.exe
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\csi.exe.config
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\csi.rsp
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.AppContext.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Console.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.IO.Compression.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Net.Http.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Net.Sockets.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.ValueTuple.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Xml.XPath.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\vbc.exe
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\vbc.exe.config
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\vbc.rsp
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\VBCSCompiler.exe
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Antlr3.Runtime.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Newtonsoft.Json.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Helpers.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Mvc.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Optimization.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Razor.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.WebPages.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.WebPages.Razor.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\WebGrease.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Helpers.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Mvc.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Optimization.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.Razor.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.WebPages.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\System.Web.WebPages.Razor.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Newtonsoft.Json.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Antlr3.Runtime.pdb
+C:\Users\1896367\source\repos\Casino v2\Casino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1896367\source\repos\Casino v2\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\1896367\source\repos\Casino v2\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\1896367\source\repos\Casino v2\Casino\obj\Debug\Casino.csproj.CopyComplete
+C:\Users\1896367\source\repos\Casino v2\Casino\obj\Debug\Casino.dll
+C:\Users\1896367\source\repos\Casino v2\Casino\obj\Debug\Casino.pdb

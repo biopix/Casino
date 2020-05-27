@@ -1,0 +1,35 @@
+﻿
+@model Casino.Models.Game
+@{
+    ViewBag.Title = "Start";
+    var ext = ".png";
+
+}
+
+
+@*<script src="~/Scripts/animation.js" type="text/javascript"/>
+<script type="text/javascript">
+   myMove();
+</script>*@
+<div class="nav">
+    <h1>BlackJack Game</h1>
+
+</div>
+<div class="center-block text-center">
+<img src="~/Content/cards/top.jpg" alt="BackGround image" width="700" />
+</div>
+<div>
+    @Model.currentCash.ToString("c")
+
+    @foreach (var card in Model.userCards)
+    {
+
+        <img src="~/Content/cards/@card.Name@ext" width="50" />
+
+
+
+    }
+
+    @Html.ActionLink("Exit game", "exit", "Home")
+</div>
+

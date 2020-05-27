@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "comingsoonPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+
+    .comingsoonHead {
+        text-align: center;
+        color: green;
+        font-size: 50px;
+        font-style: oblique;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .comingsoonParagraph {
+        text-align: center;
+        color: black;
+        font-size: 25px;
+        font-style: oblique;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+</style>
+
+<br />
+<h1 class="comingsoonHead">Coming Soon</h1>
+<br />
+<p class="comingsoonParagraph">This game will be avalible soon</p>
+<br />
+<p class="comingsoonParagraph">@Html.ActionLink("Home Page", "Index", "Home")</p>
+

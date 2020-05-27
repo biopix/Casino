@@ -1,0 +1,38 @@
+﻿@model List<Casino.Models.Card>
+
+@{
+    ViewBag.Title = "Home Page";
+    var ext = ".png";
+}
+
+<style>
+
+
+    .gamesImages {
+        border-radius: 4px;
+        margin-right: 50px;
+        width: 250px;
+        height:auto;
+    }
+
+
+
+</style>
+
+<div class="nav">
+    <h1>BlackJack Games</h1>
+  
+</div>
+
+<div>
+    <a href="/Home/StartBid?amount=100"><img src="~/Content/backGround/blackJackGame.JPG" class="gamesImages zoom" /></a>
+    <a href="/Home/comingsoonPage"><img src="~/Content/backGround/rubyClassicBlackjack.JPG" class="gamesImages zoom" /></a>
+    <a href="/Home/comingsoonPage"><img src="~/Content/backGround/doubleExposure.JPG" class="gamesImages zoom" /></a>
+    <a href="/Home/comingsoonPage"><img src="~/Content/backGround/perfectParisBlackjack.JPG" class="gamesImages zoom" /></a>
+    <a href="/Home/comingsoonPage"><img src="~/Content/backGround/europeanBlackjack.JPG" class="gamesImages zoom" /></a>
+    <a href="/Home/comingsoonPage"><img src="~/Content/backGround/multiHandBlackJack.JPG" class="gamesImages zoom" /></a>
+    <a href="/Home/comingsoonPage"><img src="~/Content/backGround/suitemUpBlackjack.JPG" class="gamesImages zoom" /></a>
+    <a href="/Home/comingsoonPage"><img src="~/Content/backGround/TwentyOnePlusThreeBlackjack.JPG" class="gamesImages zoom" /></a>
+    <br />
+    @*@Html.ActionLink("Start game", "GameFace", "Home")*@
+</div>
